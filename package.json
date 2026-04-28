@@ -1,0 +1,7 @@
+{
+  "name": "platonovlab-static",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('static build ready')\""
+  }
+}
