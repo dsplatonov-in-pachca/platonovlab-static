@@ -1,0 +1,23 @@
+# Bread Lab / Хлебная лаборатория
+
+> Public index for search and AI citation agents. Draft, private, noindex and archived materials are excluded.
+
+## Recipes
+- [Borodinsky Sourdough Bread](https://platonovlab.com/en/recipes/borodinsky/) — Classic Russian scalded rye with coriander and red rye malt. Version 3.0: more salt, refined hydration.
+- [Dark bread with 80% rye flour](https://platonovlab.com/en/recipes/dark-rye-80/) — German-style dark bread with 80% rye flour, a scald, Brotgewürz, and three-stage rye sourdough refreshment.
+- [Rye-wheat bread 60/40](https://platonovlab.com/en/recipes/rye-60-40/) — A simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald, to isolate starter activity, proofing, and crumb.
+- [Tangzhong white bread](https://platonovlab.com/en/recipes/white-tangzhong/) — Soft hearth-style white bread with tangzhong, cold fermentation, hand steam, and internal temperature control.
+- [Бородинский хлеб на закваске](https://platonovlab.com/ru/recipes/borodinsky/) — Классический заварной ржаной с кориандром и красным солодом. Версия 3.0: больше соли, выверенная гидратация.
+- [Тёмный хлеб с 80% ржаной муки](https://platonovlab.com/ru/recipes/dark-rye-80/) — Немецкий тёмный ржаной хлеб с заваркой, Brotgewürz и трёхстадийным освежением закваски.
+- [Пшеничный базовый без сдобы](https://platonovlab.com/ru/recipes/lean-wheat-s1-c1/) — Учебный контроль S1-C1: lean-пшеничный хлеб из муки, воды, соли и прессованных дрожжей, без тангжона, молока, масла, сахара и закваски.
+- [Ржано-пшеничный хлеб 60/40](https://platonovlab.com/ru/recipes/rye-60-40/) — Контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске: без солода, специй и заварки, чтобы отдельно проверить закваску, расстойку и мякиш.
+- [Белый хлеб с тангжоном](https://platonovlab.com/ru/recipes/white-tangzhong/) — Мягкий подовый пшеничный хлеб на камне: тангжон, холодная ферментация, ручной пар и контроль внутренней температуры.
+
+## Techniques
+- Нет опубликованных материалов
+
+## Baking Journal
+- Нет опубликованных материалов
+
+## Optional
+- [Full public content index](https://platonovlab.com/llms-full.txt)
