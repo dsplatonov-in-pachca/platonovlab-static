@@ -74,7 +74,7 @@ URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c1/
 Language: ru
 Published: 2026-04-27
 Modified: 2026-04-29
-Version: 1.9
+Version: 1.10
 Summary: Учебный контроль S1-C1: lean-пшеничный хлеб из муки, воды, соли и прессованных дрожжей, без тангжона, молока, масла, сахара и закваски.
 Yield: 1 подовая буханка (~580–620 г)
 Time: prep PT6H, bake PT35M, total PT7H
