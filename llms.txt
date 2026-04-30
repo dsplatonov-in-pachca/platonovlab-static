@@ -3,16 +3,16 @@
 > Public index for search and AI citation agents. Draft, private, noindex and archived materials are excluded.
 
 ## Recipes
-- [Borodinsky Sourdough Bread](https://platonovlab.com/en/recipes/borodinsky/) — Classic Russian scalded rye with coriander and red rye malt. Version 3.0: more salt, refined hydration.
-- [Dark bread with 80% rye flour](https://platonovlab.com/en/recipes/dark-rye-80/) — German-style dark bread with 80% rye flour, a scald, Brotgewürz, and three-stage rye sourdough refreshment.
-- [Rye-wheat bread 60/40](https://platonovlab.com/en/recipes/rye-60-40/) — A simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald, to isolate starter activity, proofing, and crumb.
-- [Tangzhong white bread](https://platonovlab.com/en/recipes/white-tangzhong/) — Soft hearth-style white bread with tangzhong, cold fermentation, hand steam, and internal temperature control.
-- [Бородинский хлеб на закваске](https://platonovlab.com/ru/recipes/borodinsky/) — Классический заварной ржаной с кориандром и красным солодом. Версия 3.0: больше соли, выверенная гидратация.
-- [Тёмный хлеб с 80% ржаной муки](https://platonovlab.com/ru/recipes/dark-rye-80/) — Немецкий тёмный ржаной хлеб с заваркой, Brotgewürz и трёхстадийным освежением закваски.
-- [Пшеничный базовый без сдобы](https://platonovlab.com/ru/recipes/lean-wheat-s1-c1/) — Учебный контроль S1-C1: lean-пшеничный хлеб из муки, воды, соли и прессованных дрожжей, без тангжона, молока, масла, сахара и закваски.
+- [R2-C1: Borodinsky Sourdough Bread](https://platonovlab.com/en/recipes/borodinsky/) — Advanced regional rye-track lesson: Borodinsky scalded rye on sourdough with coriander, red rye malt, and sweet-sour balance.
+- [R1-C2: Dark bread with 80% rye flour](https://platonovlab.com/en/recipes/dark-rye-80/) — Rye-track lesson on high-rye bread: dark bread with 80% rye flour, a scald, Brotgewürz, and three-stage rye sourdough refreshment.
+- [R1-C1: Rye-wheat bread 60/40](https://platonovlab.com/en/recipes/rye-60-40/) — The first rye-track lesson: a simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald.
+- [S2-C1: Tangzhong white bread](https://platonovlab.com/en/recipes/white-tangzhong/) — First soft-wheat lesson: white bread with tangzhong, milk, sugar, butter, cold fermentation, and freshness control.
+- [R2-C1: Бородинский хлеб на закваске](https://platonovlab.com/ru/recipes/borodinsky/) — Продвинутый региональный урок ржаного трека: Бородинский заварной хлеб на закваске с кориандром, красным солодом и кисло-сладким балансом.
+- [R1-C2: тёмный хлеб с 80% ржаной муки](https://platonovlab.com/ru/recipes/dark-rye-80/) — Урок ржаного трека про высокую долю ржи: тёмный хлеб с 80% ржаной муки, заваркой, Brotgewürz и трёхстадийным освежением закваски.
+- [S1-C1: пшеничный базовый без сдобы](https://platonovlab.com/ru/recipes/lean-wheat-s1-c1/) — Учебный контроль S1-C1: lean-пшеничный хлеб из муки, воды, соли и прессованных дрожжей, без тангжона, молока, масла, сахара и закваски.
 - [S1-C2: белый хлеб на пулише](https://platonovlab.com/ru/recipes/lean-wheat-s1-c2/) — Учебный урок пшеничного трека: первая продуктовая версия белого хлеба без сдобы, где вкус улучшается через пулиш, контроль температуры, ферментации и сенсорную оценку.
-- [Ржано-пшеничный хлеб 60/40](https://platonovlab.com/ru/recipes/rye-60-40/) — Контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске: без солода, специй и заварки, чтобы отдельно проверить закваску, расстойку и мякиш.
-- [Белый хлеб с тангжоном](https://platonovlab.com/ru/recipes/white-tangzhong/) — Мягкий подовый пшеничный хлеб на камне: тангжон, холодная ферментация, ручной пар и контроль внутренней температуры.
+- [R1-C1: ржано-пшеничный хлеб 60/40](https://platonovlab.com/ru/recipes/rye-60-40/) — Первый урок ржаного трека: контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске, без солода, специй и заварки.
+- [S2-C1: белый хлеб с тангжоном](https://platonovlab.com/ru/recipes/white-tangzhong/) — Первый урок мягкого пшеничного трека: белый хлеб с тангжоном, молоком, сахаром, маслом, холодной ферментацией и контролем свежести.
 
 ## Techniques
 - [Учебная программа хлебной лаборатории](https://platonovlab.com/ru/techniques/bread-course-modern-curriculum/) — Общая карта хлебного курса: теория, практика, сенсорика и треки по пшеничному, мягкому пшеничному, ржаному, заварному и региональному хлебу.

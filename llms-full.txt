@@ -3,78 +3,78 @@
 > Generated from public content collections only. Draft, private, noindex and archived materials are excluded.
 
 # Recipes
-## Borodinsky Sourdough Bread
+## R2-C1: Borodinsky Sourdough Bread
 URL: https://platonovlab.com/en/recipes/borodinsky/
 Language: en
 Published: 2026-04-08
-Modified: 2026-04-28
-Version: 3.0
-Summary: Classic Russian scalded rye with coriander and red rye malt. Version 3.0: more salt, refined hydration.
+Modified: 2026-04-30
+Version: 3.1
+Summary: Advanced regional rye-track lesson: Borodinsky scalded rye on sourdough with coriander, red rye malt, and sweet-sour balance.
 Yield: 1 loaf (~700 g)
-Time: prep PT12H, bake PT1H25M, total PT13H30M
+Time: prep PT36H, bake PT1H25M, total PT37H30M
 Ingredients: Whole-grain rye flour 300 g; Wheat flour 100 g; Water 280 g; Rye sourdough starter (100% hydration) 100 g; Salt 10 g; Red rye malt 30 g; Ground coriander 5 g; Honey 20 g
 
-## Dark bread with 80% rye flour
+## R1-C2: Dark bread with 80% rye flour
 URL: https://platonovlab.com/en/recipes/dark-rye-80/
 Language: en
 Published: 2026-04-16
-Modified: 2026-04-28
-Version: 3.4
-Summary: German-style dark bread with 80% rye flour, a scald, Brotgewürz, and three-stage rye sourdough refreshment.
+Modified: 2026-04-30
+Version: 3.5
+Summary: Rye-track lesson on high-rye bread: dark bread with 80% rye flour, a scald, Brotgewürz, and three-stage rye sourdough refreshment.
 Yield: 1 pan loaf (~900 g)
 Time: prep PT47H, bake PT1H25M, total PT49H
 Ingredients: Whole rye flour 419 g; Wheat flour 105 g; Water 418 g; Refreshed rye starter 70 g; Fermented red rye malt 15 g; Salt 11 g; Ground coriander 3 g; Ground caraway 2 g
 
-## Rye-wheat bread 60/40
+## R1-C1: Rye-wheat bread 60/40
 URL: https://platonovlab.com/en/recipes/rye-60-40/
 Language: en
 Published: 2026-04-27
-Modified: 2026-04-28
-Version: 1.0
-Summary: A simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald, to isolate starter activity, proofing, and crumb.
+Modified: 2026-04-30
+Version: 1.1
+Summary: The first rye-track lesson: a simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald.
 Yield: 1 pan loaf (~800–850 g)
 Time: prep PT24H, bake PT1H, total PT37H
 Ingredients: Active rye starter, 100% hydration 150 g; Rye flour in final dough 225 g; Wheat flour in final dough 200 g; Water in final dough 315 g; Salt 10 g; Fresh yeast, optional 2 g
 
-## Tangzhong white bread
+## S2-C1: Tangzhong white bread
 URL: https://platonovlab.com/en/recipes/white-tangzhong/
 Language: en
 Published: 2026-04-23
-Modified: 2026-04-28
-Version: 3.0
-Summary: Soft hearth-style white bread with tangzhong, cold fermentation, hand steam, and internal temperature control.
+Modified: 2026-04-30
+Version: 3.1
+Summary: First soft-wheat lesson: white bread with tangzhong, milk, sugar, butter, cold fermentation, and freshness control.
 Yield: 1 loaf (~700 g)
 Time: prep PT12H, bake PT32M, total PT13H30M
 Ingredients: Strong white bread flour 433 g; Water 260 g; Milk 53 g; Fresh yeast 5 g; Sugar 20 g; Butter 20 g; Salt 9 g
 
-## Бородинский хлеб на закваске
+## R2-C1: Бородинский хлеб на закваске
 URL: https://platonovlab.com/ru/recipes/borodinsky/
 Language: ru
 Published: 2026-04-08
-Modified: 2026-04-28
-Version: 3.0
-Summary: Классический заварной ржаной с кориандром и красным солодом. Версия 3.0: больше соли, выверенная гидратация.
+Modified: 2026-04-30
+Version: 3.1
+Summary: Продвинутый региональный урок ржаного трека: Бородинский заварной хлеб на закваске с кориандром, красным солодом и кисло-сладким балансом.
 Yield: 1 буханка (~700 г)
-Time: prep PT12H, bake PT1H25M, total PT13H30M
+Time: prep PT36H, bake PT1H25M, total PT37H30M
 Ingredients: Ржаная цельнозерновая мука 300 g; Пшеничная мука 100 g; Вода 280 g; Закваска (ржаная, 100% гидратации) 100 g; Соль 10 g; Красный ржаной солод 30 g; Кориандр молотый 5 g; Мёд 20 g
 
-## Тёмный хлеб с 80% ржаной муки
+## R1-C2: тёмный хлеб с 80% ржаной муки
 URL: https://platonovlab.com/ru/recipes/dark-rye-80/
 Language: ru
 Published: 2026-04-16
-Modified: 2026-04-28
-Version: 3.4
-Summary: Немецкий тёмный ржаной хлеб с заваркой, Brotgewürz и трёхстадийным освежением закваски.
+Modified: 2026-04-30
+Version: 3.5
+Summary: Урок ржаного трека про высокую долю ржи: тёмный хлеб с 80% ржаной муки, заваркой, Brotgewürz и трёхстадийным освежением закваски.
 Yield: 1 формовая буханка (~900 г)
 Time: prep PT47H, bake PT1H25M, total PT49H
 Ingredients: Ржаная цельнозерновая мука 419 g; Пшеничная мука 105 g; Вода 418 g; Освежённая ржаная закваска 70 g; Красный ржаной солод 15 g; Соль 11 g; Кориандр молотый 3 g; Тмин молотый 2 g
 
-## Пшеничный базовый без сдобы
+## S1-C1: пшеничный базовый без сдобы
 URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c1/
 Language: ru
 Published: 2026-04-27
-Modified: 2026-04-29
-Version: 1.10
+Modified: 2026-04-30
+Version: 1.11
 Summary: Учебный контроль S1-C1: lean-пшеничный хлеб из муки, воды, соли и прессованных дрожжей, без тангжона, молока, масла, сахара и закваски.
 Yield: 1 подовая буханка (~580–620 г)
 Time: prep PT6H, bake PT35M, total PT7H
@@ -91,24 +91,24 @@ Yield: 1 подовая буханка (~580–610 г)
 Time: prep PT8H, bake PT30M, total PT8H30M
 Ingredients: Мука MukaMuka 13.5% 400 g; Вода 260 g; Соль 8 g; Прессованные дрожжи 3 g
 
-## Ржано-пшеничный хлеб 60/40
+## R1-C1: ржано-пшеничный хлеб 60/40
 URL: https://platonovlab.com/ru/recipes/rye-60-40/
 Language: ru
 Published: 2026-04-27
-Modified: 2026-04-28
-Version: 1.0
-Summary: Контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске: без солода, специй и заварки, чтобы отдельно проверить закваску, расстойку и мякиш.
+Modified: 2026-04-30
+Version: 1.1
+Summary: Первый урок ржаного трека: контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске, без солода, специй и заварки.
 Yield: 1 формовая буханка (~800–850 г)
 Time: prep PT24H, bake PT1H, total PT37H
 Ingredients: Активная ржаная закваска 100% 150 g; Ржаная мука в финальное тесто 225 g; Пшеничная мука в финальное тесто 200 g; Вода в финальное тесто 315 g; Соль 10 g; Прессованные дрожжи, опционально 2 g
 
-## Белый хлеб с тангжоном
+## S2-C1: белый хлеб с тангжоном
 URL: https://platonovlab.com/ru/recipes/white-tangzhong/
 Language: ru
 Published: 2026-04-23
-Modified: 2026-04-28
-Version: 3.0
-Summary: Мягкий подовый пшеничный хлеб на камне: тангжон, холодная ферментация, ручной пар и контроль внутренней температуры.
+Modified: 2026-04-30
+Version: 3.1
+Summary: Первый урок мягкого пшеничного трека: белый хлеб с тангжоном, молоком, сахаром, маслом, холодной ферментацией и контролем свежести.
 Yield: 1 буханка (~700 г)
 Time: prep PT12H, bake PT32M, total PT13H30M
 Ingredients: Белая хлебопекарная мука 433 g; Вода 260 g; Молоко 53 g; Прессованные дрожжи 5 g; Сахар 20 g; Сливочное масло 20 g; Соль 9 g
