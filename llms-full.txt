@@ -85,7 +85,7 @@ URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c2/
 Language: ru
 Published: 2026-04-30
 Modified: 2026-04-30
-Version: 1.1
+Version: 1.2
 Summary: Учебный урок пшеничного трека: первая продуктовая версия белого хлеба без сдобы, где вкус улучшается через пулиш, контроль температуры, ферментации и сенсорную оценку.
 Yield: 1 подовая буханка (~580–610 г)
 Time: prep PT8H, bake PT30M, total PT8H30M
@@ -114,11 +114,17 @@ Time: prep PT12H, bake PT32M, total PT13H30M
 Ingredients: Белая хлебопекарная мука 433 g; Вода 260 g; Молоко 53 g; Прессованные дрожжи 5 g; Сахар 20 g; Сливочное масло 20 g; Соль 9 g
 
 # Techniques
-## Пшеничный трек: современная учебная программа
+## Учебная программа хлебной лаборатории
+URL: https://platonovlab.com/ru/techniques/bread-course-modern-curriculum/
+Language: ru
+Published: 2026-04-30
+Summary: Общая карта хлебного курса: теория, практика, сенсорика и треки по пшеничному, мягкому пшеничному, ржаному, заварному и региональному хлебу.
+
+## Пшеничный трек: lean/artisan программа
 URL: https://platonovlab.com/ru/techniques/wheat-course-modern-bread-theory/
 Language: ru
 Published: 2026-04-30
-Summary: Карта учебного курса по пшеничному хлебу: теория, измерения, сенсорика и маршрут от базового белого хлеба к современным вкусным формулам.
+Summary: Карта пшеничного lean/artisan-трека: теория, измерения, сенсорика и маршрут от базового белого хлеба к современным вкусным формулам без сдобы.
 
 # Baking Journal
 No public journal entries.
