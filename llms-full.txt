@@ -85,7 +85,7 @@ URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c2/
 Language: ru
 Published: 2026-04-30
 Modified: 2026-04-30
-Version: 1.3
+Version: 1.4
 Summary: Учебный урок пшеничного трека: первая продуктовая версия белого хлеба без сдобы, где вкус улучшается через пулиш, контроль температуры, ферментации и сенсорную оценку.
 Yield: 1 подовая буханка (~580–610 г)
 Time: prep PT8H, bake PT30M, total PT8H30M
