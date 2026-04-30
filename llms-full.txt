@@ -80,6 +80,17 @@ Yield: 1 подовая буханка (~580–620 г)
 Time: prep PT6H, bake PT35M, total PT7H
 Ingredients: Мука MukaMuka 13.5% 400 g; Вода 260 g; Соль 8 g; Прессованные дрожжи 3 g
 
+## S1-C2: белый хлеб на пулише
+URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c2/
+Language: ru
+Published: 2026-04-30
+Modified: 2026-04-30
+Version: 1.1
+Summary: Учебный урок пшеничного трека: первая продуктовая версия белого хлеба без сдобы, где вкус улучшается через пулиш, контроль температуры, ферментации и сенсорную оценку.
+Yield: 1 подовая буханка (~580–610 г)
+Time: prep PT8H, bake PT30M, total PT8H30M
+Ingredients: Мука MukaMuka 13.5% 400 g; Вода 260 g; Соль 8 g; Прессованные дрожжи 3 g
+
 ## Ржано-пшеничный хлеб 60/40
 URL: https://platonovlab.com/ru/recipes/rye-60-40/
 Language: ru
@@ -103,7 +114,11 @@ Time: prep PT12H, bake PT32M, total PT13H30M
 Ingredients: Белая хлебопекарная мука 433 g; Вода 260 g; Молоко 53 g; Прессованные дрожжи 5 g; Сахар 20 g; Сливочное масло 20 g; Соль 9 g
 
 # Techniques
-No public techniques.
+## Пшеничный трек: современная учебная программа
+URL: https://platonovlab.com/ru/techniques/wheat-course-modern-bread-theory/
+Language: ru
+Published: 2026-04-30
+Summary: Карта учебного курса по пшеничному хлебу: теория, измерения, сенсорика и маршрут от базового белого хлеба к современным вкусным формулам.
 
 # Baking Journal
 No public journal entries.
