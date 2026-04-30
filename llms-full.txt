@@ -8,7 +8,7 @@ URL: https://platonovlab.com/en/recipes/borodinsky/
 Language: en
 Published: 2026-04-08
 Modified: 2026-04-30
-Version: 3.1
+Version: 3.2
 Summary: Advanced regional rye-track lesson: Borodinsky scalded rye on sourdough with coriander, red rye malt, and sweet-sour balance.
 Yield: 1 loaf (~700 g)
 Time: prep PT36H, bake PT1H25M, total PT37H30M
@@ -19,7 +19,7 @@ URL: https://platonovlab.com/en/recipes/dark-rye-80/
 Language: en
 Published: 2026-04-16
 Modified: 2026-04-30
-Version: 3.5
+Version: 3.6
 Summary: Rye-track lesson on high-rye bread: dark bread with 80% rye flour, a scald, Brotgewürz, and three-stage rye sourdough refreshment.
 Yield: 1 pan loaf (~900 g)
 Time: prep PT47H, bake PT1H25M, total PT49H
@@ -30,7 +30,7 @@ URL: https://platonovlab.com/en/recipes/rye-60-40/
 Language: en
 Published: 2026-04-27
 Modified: 2026-04-30
-Version: 1.1
+Version: 1.2
 Summary: The first rye-track lesson: a simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald.
 Yield: 1 pan loaf (~800–850 g)
 Time: prep PT24H, bake PT1H, total PT37H
@@ -41,7 +41,7 @@ URL: https://platonovlab.com/en/recipes/white-tangzhong/
 Language: en
 Published: 2026-04-23
 Modified: 2026-04-30
-Version: 3.1
+Version: 3.2
 Summary: First soft-wheat lesson: white bread with tangzhong, milk, sugar, butter, cold fermentation, and freshness control.
 Yield: 1 loaf (~700 g)
 Time: prep PT12H, bake PT32M, total PT13H30M
@@ -52,7 +52,7 @@ URL: https://platonovlab.com/ru/recipes/borodinsky/
 Language: ru
 Published: 2026-04-08
 Modified: 2026-04-30
-Version: 3.1
+Version: 3.2
 Summary: Продвинутый региональный урок ржаного трека: Бородинский заварной хлеб на закваске с кориандром, красным солодом и кисло-сладким балансом.
 Yield: 1 буханка (~700 г)
 Time: prep PT36H, bake PT1H25M, total PT37H30M
@@ -63,7 +63,7 @@ URL: https://platonovlab.com/ru/recipes/dark-rye-80/
 Language: ru
 Published: 2026-04-16
 Modified: 2026-04-30
-Version: 3.5
+Version: 3.6
 Summary: Урок ржаного трека про высокую долю ржи: тёмный хлеб с 80% ржаной муки, заваркой, Brotgewürz и трёхстадийным освежением закваски.
 Yield: 1 формовая буханка (~900 г)
 Time: prep PT47H, bake PT1H25M, total PT49H
@@ -74,7 +74,7 @@ URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c1/
 Language: ru
 Published: 2026-04-27
 Modified: 2026-04-30
-Version: 1.11
+Version: 1.12
 Summary: Учебный контроль S1-C1: lean-пшеничный хлеб из муки, воды, соли и прессованных дрожжей, без тангжона, молока, масла, сахара и закваски.
 Yield: 1 подовая буханка (~580–620 г)
 Time: prep PT6H, bake PT35M, total PT7H
@@ -85,7 +85,7 @@ URL: https://platonovlab.com/ru/recipes/lean-wheat-s1-c2/
 Language: ru
 Published: 2026-04-30
 Modified: 2026-04-30
-Version: 1.2
+Version: 1.3
 Summary: Учебный урок пшеничного трека: первая продуктовая версия белого хлеба без сдобы, где вкус улучшается через пулиш, контроль температуры, ферментации и сенсорную оценку.
 Yield: 1 подовая буханка (~580–610 г)
 Time: prep PT8H, bake PT30M, total PT8H30M
@@ -96,7 +96,7 @@ URL: https://platonovlab.com/ru/recipes/rye-60-40/
 Language: ru
 Published: 2026-04-27
 Modified: 2026-04-30
-Version: 1.1
+Version: 1.2
 Summary: Первый урок ржаного трека: контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске, без солода, специй и заварки.
 Yield: 1 формовая буханка (~800–850 г)
 Time: prep PT24H, bake PT1H, total PT37H
@@ -107,7 +107,7 @@ URL: https://platonovlab.com/ru/recipes/white-tangzhong/
 Language: ru
 Published: 2026-04-23
 Modified: 2026-04-30
-Version: 3.1
+Version: 3.2
 Summary: Первый урок мягкого пшеничного трека: белый хлеб с тангжоном, молоком, сахаром, маслом, холодной ферментацией и контролем свежести.
 Yield: 1 буханка (~700 г)
 Time: prep PT12H, bake PT32M, total PT13H30M
