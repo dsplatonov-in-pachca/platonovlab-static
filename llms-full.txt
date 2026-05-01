@@ -30,10 +30,10 @@ URL: https://platonovlab.com/en/recipes/rye-60-40/
 Language: en
 Published: 2026-04-27
 Modified: 2026-05-01
-Version: 1.3
+Version: 1.7
 Summary: The first rye-track lesson: a simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald.
 Yield: 1 pan loaf (~800–850 g)
-Time: prep PT24H, bake PT1H, total PT37H
+Time: prep PT24H, bake PT1H25M, total PT37H25M
 Ingredients: Active rye starter, 100% hydration 150 g; Rye flour in final dough 225 g; Wheat flour in final dough 200 g; Water in final dough 315 g; Salt 10 g; Fresh yeast, optional 2 g
 
 ## S2-C1: Tangzhong white bread
@@ -96,10 +96,10 @@ URL: https://platonovlab.com/ru/recipes/rye-60-40/
 Language: ru
 Published: 2026-04-27
 Modified: 2026-05-01
-Version: 1.3
+Version: 1.7
 Summary: Первый урок ржаного трека: контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске, без солода, специй и заварки.
 Yield: 1 формовая буханка (~800–850 г)
-Time: prep PT24H, bake PT1H, total PT37H
+Time: prep PT24H, bake PT1H25M, total PT37H25M
 Ingredients: Активная ржаная закваска 100% 150 g; Ржаная мука в финальное тесто 225 g; Пшеничная мука в финальное тесто 200 g; Вода в финальное тесто 315 g; Соль 10 g; Прессованные дрожжи, опционально 2 g
 
 ## S2-C1: белый хлеб с тангжоном
