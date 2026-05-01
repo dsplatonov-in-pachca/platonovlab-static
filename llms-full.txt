@@ -29,8 +29,8 @@ Ingredients: Whole rye flour 419 g; Wheat flour 105 g; Water 418 g; Refreshed ry
 URL: https://platonovlab.com/en/recipes/rye-60-40/
 Language: en
 Published: 2026-04-27
-Modified: 2026-04-30
-Version: 1.2
+Modified: 2026-05-01
+Version: 1.3
 Summary: The first rye-track lesson: a simple 60/40 rye-wheat control loaf on one rye starter, without malt, spices, or scald.
 Yield: 1 pan loaf (~800–850 g)
 Time: prep PT24H, bake PT1H, total PT37H
@@ -95,8 +95,8 @@ Ingredients: Мука MukaMuka 13.5% 400 g; Вода 260 g; Соль 8 g; Пре
 URL: https://platonovlab.com/ru/recipes/rye-60-40/
 Language: ru
 Published: 2026-04-27
-Modified: 2026-04-30
-Version: 1.2
+Modified: 2026-05-01
+Version: 1.3
 Summary: Первый урок ржаного трека: контрольный ржано-пшеничный хлеб 60/40 на одной ржаной закваске, без солода, специй и заварки.
 Yield: 1 формовая буханка (~800–850 г)
 Time: prep PT24H, bake PT1H, total PT37H
